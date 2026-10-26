@@ -1,0 +1,22 @@
+# Stride Haven Engineering Solutions FZE
+
+> Stride Haven Engineering Solutions FZE is a vendor-neutral instrumentation, analytical, automation, gas detection, IoT and engineering solutions company based in Hamriya Free Zone, Sharjah, United Arab Emirates, serving process industries across the UAE, Middle East and Africa.
+
+Stride Haven engineers, integrates, manufactures and delivers complete solutions across seven categories: instrumentation, analytical, gas and flame detection, automation, IoT and digital, engineering services, and in-house manufacturing. The company is engineering-first and vendor-neutral, specifying and integrating technology from leading global brands (including Yokogawa, ABB, Endress+Hauser, Emerson and Honeywell) based on project fit rather than a fixed catalogue. Clients include major operators and EPC contractors across oil and gas, petrochemical, power, water and wastewater treatment, desalination, utilities, and food and beverage industries.
+
+## Solutions
+
+- [Instrumentation Solutions](https://www.stride-haven.com/instrumentation-solutions.html): Pressure, temperature, flow and level transmitters — selection, installation and calibration support.
+- [Analytical Solutions](https://www.stride-haven.com/analytical-solutions.html): pH, ORP, conductivity, turbidity, chlorine, TOC, UV254 and SDI analyzers for water and process quality.
+- [Gas & Flame Detection](https://www.stride-haven.com/gas-detection-solutions.html): Fixed and portable gas detectors, flame detectors and confined space monitoring, engineered to ATEX, IECEx and SIL requirements.
+- [Automation Solutions](https://www.stride-haven.com/automation-solutions.html): PLC, SCADA and HMI integration, control panels and ESD/SIS interfacing.
+- [IIoT & Digital Solutions](https://www.stride-haven.com/iiot-solutions.html): Industrial IoT remote monitoring with gateways, GSM/4G/LoRaWAN connectivity, SCADA/cloud dashboards and alarm notifications.
+- [Engineering Services](https://www.stride-haven.com/engineering-services.html): FDS, datasheets, hook-up drawings, GAD, ITP, FAT/SAT and technical compliance documentation for EPC and consultant projects.
+- [In-House Manufacturing](https://www.stride-haven.com/manufacturing-solutions.html): Analyzer panels, instrument panels and skid-mounted systems, built in Sharjah, UAE with FAT and inspection support.
+
+## Company
+
+- [About Stride Haven](https://www.stride-haven.com/about.html): Engineering-first, vendor-neutral, accountable company profile.
+- [Industries We Serve](https://www.stride-haven.com/industries.html): Oil and gas, petrochemical, power, water treatment, wastewater treatment, desalination, utilities, food and beverage.
+- [Technology Partners](https://www.stride-haven.com/technology-partners.html): Global brands Stride Haven integrates into its projects.
+- [Contact](https://www.stride-haven.com/contact.html): Hamriya Free Zone, Sharjah, UAE. Phone +971 65 575 684, email info@stride-haven.com.
